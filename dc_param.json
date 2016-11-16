@@ -24,7 +24,7 @@
             "value": "dc"
         },
         "adminPassword": {
-            "value": "securestring" 
+            "value": "Testuser@123" 
         },
         "storageAccountType": {
             "value": "Standard_LRS"
